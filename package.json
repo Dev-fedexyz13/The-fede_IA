@@ -15,13 +15,13 @@
   ],
   "author": "Dev-fedexyz13",
   "license": "MIT",
-  "homepage": "https://github.com/Dev-fedexyz13/The-fede_IA",
+  "homepage": "https://github.com/Dev-fedexyz13/Dev-fedexyz13",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dev-fedexyz13/The-fede_IA.git"
+    "url": "git+https://github.com/Dev-fedexyz13/Dev-fedexyz13.git"
 },
   "bugs": {
-    "url": "https://github.com/Dev-fedexyz13/The-fede_IA/issues"
+    "url": "https://github.com/Dev-fedexyz13/Dev-fedexyz13/issues"
 },
   "engines": {
     "node": ">=20.0.0"
