@@ -1,12 +1,12 @@
 {
   "name": "The-fede_IA",
   "version": "1.0.0",
-  "description": "The-fede_IA WhatsApp  Multi-Device",
+  "description": "The-fede_IA WhatsApp Multi-Device",
   "main": "start.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
-  },
+},
   "keywords": [
     "whatsapp-bot",
     "baileys-md",
@@ -15,16 +15,23 @@
   ],
   "author": "Dev-fedexyz13",
   "license": "MIT",
+  "homepage": "https://github.com/Dev-fedexyz13/The-fede_IA",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-fedexyz13/The-fede_IA.git"
+},
+  "bugs": {
+    "url": "https://github.com/Dev-fedexyz13/The-fede_IA/issues"
+},
   "engines": {
     "node": ">=20.0.0"
-  },
+},
   "dependencies": {
     "@hapi/boom": "^10.0.0",
-    "awesome-phonenumber": "^4.4.0",
-    "axios": "^0.24.0",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "@whiskeysockets/baileys": "^6.6.0",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
-    "lurcloud": "github:AzamiJs/lurcloud",
-    "@whiskeysockets/baileys": "github:EdderBot02/bail",
+    "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "express": "^4.18.2",
     "fluent-ffmpeg": "^2.1.2",
@@ -46,6 +53,6 @@
     "util": "^0.12.5",
     "yargs": "^17.6.2",
     "yt-search": "^2.10.4",
-    "@vitalets/google-translate-api": "^8.0.0"
-  }
+    "awesome-phonenumber": "^4.4.0"
+}
 }
